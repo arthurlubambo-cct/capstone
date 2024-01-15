@@ -4,3 +4,7 @@ songs_wav/*
 1.wav
 input/*
 output/*
+temp/*
+songs_with_midi.pkl
+queries_with_midi.pkl
+testing.pkl

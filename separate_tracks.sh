@@ -1,5 +1,5 @@
 # Directory containing audio files
-inputDir="./input"
+inputDir="./songs_wav"
 # Output directory for separated tracks
 outputDir="./output"
 
