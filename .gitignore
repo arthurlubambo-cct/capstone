@@ -8,3 +8,9 @@ temp/*
 songs_with_midi.pkl
 queries_with_midi.pkl
 testing.pkl
+f0/temp/*.pickle
+f0_queries/temp/*.pickle
+queries_on_beat_melody.pkl
+queries_with_f0.pkl
+songs_with_f0.pkl
+songs_with_on_beat_melody.pkl
