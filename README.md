@@ -4,11 +4,29 @@
 
 This repository contains the code for the capstone project research
 
-## How to Prepare Data
+## How to Prepare Data and run experiments
 
--1 Organize the Songs in the songs_wav folder
+- Organize the Songs in the songs_wav folder
 {songId}.wav
--2 Install the Demucs
--3 Run separate_tracks.sh shell script
--4 Extract the Queries MTG-QBH Tracks in "MTG-QBH" folder
--5 
+
+- Install the Demucs
+
+- Run separate_tracks.sh shell script
+
+- Extract the Queries MTG-QBH Tracks in "MTG-QBH" folder
+
+- Run process_songs.py to generate MIDI using Basic
+
+- Run process_queries.ipynb generate MIDI using Basic for queries
+
+- Run main.ipynb
+
+- Run clean_overlap_notes.ipynb
+  
+- Run sequence_encoding.ipynb
+
+- Run  sets_creation.ipynb
+
+- Run experiments.ipynb
+
+- Run evaluation.ipynb
